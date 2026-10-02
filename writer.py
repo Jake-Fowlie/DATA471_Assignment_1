@@ -5,6 +5,8 @@ Converts NHL-style CSV player-game statistics into a fixed-size
 binary .stat file.
 
 Each record represents one player's performance in one game.
+
+Jake Fowlie - 10185046
 """
 
 import csv

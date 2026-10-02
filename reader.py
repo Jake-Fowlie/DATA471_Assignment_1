@@ -2,6 +2,8 @@
 reader.py
 
 Reads fixed-size binary .stat files and displays the records.
+
+Jake Fowlie - 10185046
 """
 
 import struct
